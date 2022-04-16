@@ -1,31 +1,33 @@
-.u-section-1 .u-image-1 {
+.u-section-1 .u-sheet-1 {
+  min-height: 47px;
+}.u-section-2 .u-image-1 {
   min-height: 500px;
   background-image: url("images/Screenshot2022-04-16011247.png");
   background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-image-1 {
+  .u-section-2 .u-image-1 {
     min-height: 412px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-image-1 {
+  .u-section-2 .u-image-1 {
     min-height: 316px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
+  .u-section-2 .u-image-1 {
     min-height: 237px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-image-1 {
+  .u-section-2 .u-image-1 {
     min-height: 149px;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 72px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 50px;
 }
